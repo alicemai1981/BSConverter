@@ -1,0 +1,5 @@
+fix bugs: flush temptText buffer before entry nab comment module and clear tempText; 
+	  Writeline Comlinebuffer when find the 1st delimiter	
+quick fix: change end page(last transactions) gap tolerence to 2 lines; 
+	   add rightOut alignment type for nab in case word invades into right next colunm. 
+to do: add font info to nodedata to detect end of page
