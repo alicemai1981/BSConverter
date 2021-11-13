@@ -1,5 +1,8 @@
 fix bugs: flush temptText buffer before entry nab comment module and clear tempText; 
-	  Writeline Comlinebuffer when find the 1st delimiter	
+	  Writeline Comlinebuffer when find the 1st delimiter;
+	   move updating of the rowStart variable from updateXlsHeader to Header parser; 		
 quick fix: change end page(last transactions) gap tolerence to 2 lines; 
 	   add rightOut alignment type for nab in case word invades into right next colunm. 
+add module: BankProfile module is added to initiate bank title and header info. 
 to do: add font info to nodedata to detect end of page
+       fee block also be evaluated as comments block so even user ticks the ignore fee, fee info still included in output		
