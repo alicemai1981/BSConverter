@@ -13,5 +13,13 @@ to do:
 
 ---------------03122021-------------------------
 major change: title and header parsers were rewritten into classes to accomodate multi line headings. 
-to do: testing for more banks
+to fix: testing for more banks
+       support 2 titles on same page
+       words in competing columns
+       title presents header missing, warns user		
+			
 
+--------------07122021-------------------------------------
+major change: transaction parser was rewritten as a class to accomodate capture trans by begin or end 
+to do: testing and debug
+note: will not support AMX statements in this release
