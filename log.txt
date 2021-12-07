@@ -23,3 +23,5 @@ to fix: testing for more banks
 major change: transaction parser was rewritten as a class to accomodate capture trans by begin or end 
 to do: testing and debug
 note: will not support AMX statements in this release
+
+fixed bugs
