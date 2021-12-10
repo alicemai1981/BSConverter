@@ -25,3 +25,5 @@ to do: testing and debug
 note: will not support AMX statements in this release
 
 fixed bugs
+--------------10122021--------------------------------
+fix bugs 
