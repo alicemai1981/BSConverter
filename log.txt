@@ -27,3 +27,6 @@ note: will not support AMX statements in this release
 fixed bugs
 --------------10122021--------------------------------
 fix bugs 
+
+--------------10032022--------------------------------
+add Nab credit profile; found the RowStart variable never used, shall be removed; 
