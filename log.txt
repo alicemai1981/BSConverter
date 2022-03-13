@@ -30,3 +30,6 @@ fix bugs
 
 --------------10032022--------------------------------
 add Nab credit profile; found the RowStart variable never used, shall be removed; 
+---------14032022----------------------------------------
+fix bugs in the Validate function of headerworker module, 
+make sure the deep copy of the original collection and its all members; 
