@@ -35,3 +35,5 @@ fix bugs in the Validate function of headerworker module,
 make sure the deep copy of the original collection and its all members; 
 ------------29032022--------------------
 fix bugs in post process and end trans, add westpac credit card profile
+------------31032022--------------------
+fix bugs in force flush function and postprocessing, add spell checking  
