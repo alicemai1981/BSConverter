@@ -37,3 +37,5 @@ make sure the deep copy of the original collection and its all members;
 fix bugs in post process and end trans, add westpac credit card profile
 ------------31032022--------------------
 fix bugs in force flush function and postprocessing, add spell checking  
+------------01042022--------------------
+coding for label text only with placeholder  
