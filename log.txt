@@ -41,3 +41,5 @@ fix bugs in force flush function and postprocessing, add spell checking
 coding for label text only with placeholder  
 ------------01042022--------------------
 fix bugs in post processing and label text only with placeholder  
+------------14042022---------------
+fix bugs in Nab bank profile, add Row start value
