@@ -43,3 +43,5 @@ coding for label text only with placeholder
 fix bugs in post processing and label text only with placeholder  
 ------------14042022---------------
 fix bugs in Nab bank profile, add Row start value
+------------10/05/2022-----------
+fix bugs in ANZ and Nab profile and date formats
