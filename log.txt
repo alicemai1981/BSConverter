@@ -47,3 +47,7 @@ fix bugs in Nab bank profile, add Row start value
 fix bugs in ANZ and Nab profile and date formats
 -----------03/06/2022--------------------
 fix bugs, remove possible "vbCr" in header string. 
+-----------05/07/2022-----------------------------
+add 2 bank profiles: Ubank; Citibank-credit
+test end of transaction by context if known; 
+out of colunm text, allow user to select to continue to next text 
