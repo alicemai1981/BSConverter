@@ -51,3 +51,5 @@ fix bugs, remove possible "vbCr" in header string.
 add 2 bank profiles: Ubank; Citibank-credit
 test end of transaction by context if known; 
 out of colunm text, allow user to select to continue to next text 
+---------16/08/2022-------------------
+update ANZ endTransGap parameter
