@@ -57,3 +57,7 @@ update ANZ endTransGap parameter and fixed bug in post process
 fix bugs in fee handling for NAB bank, replace StrComp with Instr in feestart and feeEnd functions. 
 update Postprocess for Nab bank to accomodate cases where day is 1 or 2 digits; 
 to do: fix regressional test failtures: Ubank, Nab credit;   
+
+--------------12/01/2024------------------------------
+fix bugs in tempGap, use last text and assembled to calculate the gap. 
+Add Suncorp bank profile
